@@ -12,7 +12,3 @@ public class GreetingController{
 		return "greeting";
 	}
 }
-<<<<<<< Updated upstream
-=======
-
->>>>>>> Stashed changes
